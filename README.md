@@ -1,6 +1,6 @@
 # Atividade: Padrão Singleton
 **Disciplina:** Linguagens e Técnicas de Programação III  
-**Professor:** Dr. Emerson Carvalho
+**Professor:** Dr. Emerson Carvalho 
 
 ## 1. Problema que o padrão resolve
 O padrão Singleton garante que uma classe tenha **apenas uma instância** durante a execução do sistema e fornece um ponto global de acesso a essa instância.  
